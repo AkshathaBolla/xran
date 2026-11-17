@@ -1,0 +1,4 @@
+torch
+frida
+frida-tools
+scikit-learn   # only for baseline.py

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Datasets and generated data
+data/
+*.csv
+*.db
+*.zip
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Logs and experiment outputs
+logs/
+*.log
+*.jsonl
+
+# Generated reports and analysis
+reports/
+analysis/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
